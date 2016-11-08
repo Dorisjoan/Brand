@@ -1,0 +1,49 @@
+body{
+	background-color: purple;
+	color: white;
+}
+.jumbotron{
+	color: black;
+}
+
+.login{
+	color: black;
+}
+a{
+	color: black;
+}
+.container2{
+	background-color: default;
+	color: black;
+}
+.doris{
+	padding-left: 185px;
+	padding-right: 185px;
+	
+}
+.joan{
+	padding-left: 150px;
+	padding-right: 150px;
+	margin: 40px;
+	
+}
+/*.container3{
+
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+.container5{
+	padding-left: 20px;
+	padding-right: 20px;
+}*/
+	/*float: right;*/
+
+ 
+.fa{
+	color: black;
+}
+footer{
+	background-color:white;
+	color:black;
+}
